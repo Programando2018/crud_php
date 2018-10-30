@@ -1,8 +1,11 @@
-<html>
-	<head>
-		<title>Administrar Libro</title>
-	</head>
-	<body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Mi Biblioteca</title>
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+</head>
+<body>
 		<header>
 			Bienvenido Administrar Libro
 		</header>
@@ -17,5 +20,8 @@
 		<footer>
 			Administrar Libro 2017
 		</footer>
-	</body>
+</body>
 </html>
+
+
+

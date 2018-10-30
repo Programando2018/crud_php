@@ -1,0 +1,14 @@
+body{
+     background-image: url("../img/inicio.jpeg");
+}
+header{
+	border: 1px solid;
+	position:relative;
+}
+table{
+	border: 1px solid;
+}
+
+footer{
+	border:1px solid;
+}
