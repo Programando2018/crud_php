@@ -1,8 +1,8 @@
 body{
-     background-image: url("../img/inicio.jpeg");
+     background-image: url("../img/Biblioteca.jpg");
 }
 header{
-	/*border: 1px solid;*/
+	border: 1px solid;
 	text-align: center;
 	height: 60px;
 	padding-top: 8%;
@@ -10,10 +10,14 @@ header{
 	font-weight: bold;
 	color:white;
 	font-family: "Times New Roman", Times, serif;
+
+}
+.tabla{
+
 }
 
 footer{
-	/*border:1px solid;*/
+	border:1px solid;
 	text-align: center;
 	height: 40px;
 	padding-bottom: 8%;
@@ -23,16 +27,12 @@ footer{
 	font-family: "Times New Roman", Times, serif;
 	padding-top: 1%;
 }
-.contenedor{
-	width:100%;
-	margin: auto;
-	height: 200px;
-	margin-top:10px;
-	margin-bottom:20px;
-	background-color:rgb(230, 216, 213);
-	opacity: 0.5;
-}
 
+.contenedor{
+border: 1px solid;
+height: 580px;
+}
+/*
 
 .tabla{
 	margin:auto;
@@ -49,3 +49,4 @@ padding-bottom: 30px;
 .segundo{
 	text-align:center;
 }
+/*
