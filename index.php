@@ -9,16 +9,20 @@
 		<header>
 			Bienvenido Administrar Libro
 		</header>
-		<table border=1>
-			<tr>
-				<td><a href="ingresar.php">Ingresar</a></td>
-			</tr>
-			<tr>
-				<td><a href="mostrar.php">Ver</a></td>
-			</tr>
-		</table>
+		<div class="contenedor">
+			<div class="tabla">
+			<table>
+				<tr>
+					<td class="primero"><a href="ingresar.php">INGRESAR</a></td>
+				</tr>
+				<tr>
+					<td class="segundo"><a href="mostrar.php">VER</a></td>
+				</tr>
+			</table>
+			</div>
+		</div>
 		<footer>
-			Administrar Libro 2017
+			Tu Biblioteca 2018
 		</footer>
 </body>
 </html>
